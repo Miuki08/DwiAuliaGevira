@@ -1,7 +1,7 @@
 /* Mengatur font dan warna latar belakang keseluruhan */
 body {
     font-family: 'Comic Sans MS', cursive, sans-serif; /* Font utama untuk teks */
-    background-image: url('pinkk.jfif'); /* Latar belakang berupa gambar */
+    background-image: url('pinkk.jpg'); /* Latar belakang berupa gambar */
     background-repeat: no-repeat; /* Gambar tidak diulang */
     background-size: cover; /* Gambar menutupi seluruh area */
     background-position: center; /* Gambar diposisikan di tengah */
